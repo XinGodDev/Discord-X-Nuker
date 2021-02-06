@@ -11,8 +11,8 @@ pip install numpy
 pip install colorama
 python $$$.py
 ```
-![Views](https://i.ibb.co/MV8vH4H/Capture.png)
 ![Views](https://i.ibb.co/Vj3kPTx/dfsqd.png)
+![Views](https://i.ibb.co/MV8vH4H/Capture.png)
 
 ## Disclamer
 Your account can be get banned ! 

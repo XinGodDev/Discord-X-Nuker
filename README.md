@@ -1,5 +1,3 @@
-# Nitro Gen
-
 ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XinGodDev/Discord-X-Nuker&title=Views)                 
 Discord Nuke Bot
 
